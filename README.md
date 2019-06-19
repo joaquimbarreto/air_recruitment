@@ -33,6 +33,12 @@ Design should be modern and polished.
 Must be built using valid HTML, CSS and JavaScript.
 Work to be hosted on owned GIT repository and running version of app made available online.
 
+## Server
+
+To start server: json-server --watch data.json --port 3001
+
+To start app: yarn start or try just 'yarn' and then 'yarn start'
+
 ## Available Scripts
 
 In the project directory, you can run:
