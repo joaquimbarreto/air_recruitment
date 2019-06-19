@@ -1,0 +1,48 @@
+{
+  "tables": [
+    {
+      "id": "1",
+      "table": "1",
+      "data": [
+        {
+          "name": "p",
+          "value": 5
+        },
+        {
+          "name": "ne",
+          "value": 2
+        },
+        {
+          "name": "nu",
+          "value": 2
+        },
+        {
+          "name": "na",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "table": "2",
+      "data": [
+        {
+          "name": "p",
+          "value": 6
+        },
+        {
+          "name": "ne",
+          "value": 2
+        },
+        {
+          "name": "nu",
+          "value": 1
+        },
+        {
+          "name": "na",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
