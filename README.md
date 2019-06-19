@@ -1,5 +1,30 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The Task
+
+The aim of this exercise is to create an interactive chart app using React, the kind of chart which may be seen in a data driven SAAS dashboard.
+
+Using the data below, you should render a single donut chart that displays "Table 1" by default and has the option to combine the extra information in "Table 2" (default only Table 1 data, toggle shows combined data, no need for Table 2 data on its own).
+
+Table 1
+p | 5
+ne | 2
+nu | 2
+na | 1
+
+Table 2
+p | 6
+ne | 2
+nu | 1
+na | 1
+
+Features and requirements
+
+When a user selects a legend element, the corresponding section on the graph should in some way 'highlight'.
+Design should be modern and polished.
+Must be built using valid HTML, CSS and JavaScript.
+Work to be hosted on owned GIT repository and running version of app made available online.
+
 ## Available Scripts
 
 In the project directory, you can run:
