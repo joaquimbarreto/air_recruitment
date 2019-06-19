@@ -6,16 +6,24 @@ The aim of this exercise is to create an interactive chart app using React, the 
 
 Using the data below, you should render a single donut chart that displays "Table 1" by default and has the option to combine the extra information in "Table 2" (default only Table 1 data, toggle shows combined data, no need for Table 2 data on its own).
 
-Table 1
+Table 1:
+
 p | 5
+
 ne | 2
+
 nu | 2
+
 na | 1
 
-Table 2
+Table 2:
+
 p | 6
+
 ne | 2
+
 nu | 1
+
 na | 1
 
 Features and requirements
